@@ -76,7 +76,7 @@ For updates and discussions, feel free to:
 
 - Watch this repository for updates.  
 - Open issues to provide feedback or feature suggestions.  
-- Join our community forum (link to forum/Slack/Discord if available).  
+ 
 
 ---
 
